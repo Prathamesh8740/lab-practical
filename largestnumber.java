@@ -1,5 +1,5 @@
 package array;
-
+//2nd largest number using array
 public class largestnumber {
 
 	public static void main(String[] args) {
@@ -15,8 +15,9 @@ public class largestnumber {
 				m=a[i];
 			}
 		
-		}
-		System.out.println(m);
+		} 
+		//l is largest number and m is 2nd largest number
+		System.out.println("2nd largest number ="+ m );
 			
 		
 	}
